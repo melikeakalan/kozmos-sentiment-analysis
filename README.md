@@ -33,8 +33,12 @@ It shows how many percent of tweets are positive or negative.
 
 Frequent words and their frequencies in the text.
 ![img_3.png](img_3.png)
+#
 
-Wordcloud
+#### Wordcloud
+WordCloud is a visualization technique for text data wherein each word is picturized with its importance in the context 
+or its frequency. This is a very handy application when it comes to understanding the crux of the text. In the WordCloud 
+example below, a distribution has occurred according to the most used words among all tweets in the dataset.
 ![img_4.png](img_4.png)
 
 
