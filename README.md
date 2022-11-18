@@ -27,11 +27,11 @@ The data set includes the comments, comment title, number of stars and comments 
 * Lemmatization
 
 ### Data Visualization
-It shows how many percent of tweets are positive or negative.
+- It shows how many percent of tweets are positive or negative.
 ![img_2.png](img_2.png)
 
 
-Frequent words and their frequencies in the text.
+- Frequent words and their frequencies in the text.
 ![img_3.png](img_3.png)
 #
 
